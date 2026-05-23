@@ -65,9 +65,14 @@ Key Insights 📈
 - Premium customers contributed more profit
 
 ---
-![Dashboard 1](Dashboard 1.png)
 
-![Dashboard 2](Dashboard 2.png)
+
+![Dashboard 1](Dashboard1.png)
+
+![Dashboard 2](Dashboard2.png)
+
+
+
 Business Recommendations 🚀
 
 - Reduce product returns through quality checks
