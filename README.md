@@ -79,7 +79,9 @@ Business Recommendations 🚀
 
 DASHBOARDS
 
+![Dashboard 1](dashboard1.png)
 
+![Dashboard 2](dashboard2.png)
 
 ---
 
